@@ -2,9 +2,6 @@
 ![image](https://github.com/ub0329/Nutrition/assets/112606772/ee76c27f-567a-4a5f-9847-7c65d53931bf)
 ![image](https://github.com/ub0329/Nutrition/assets/112606772/6f0c9fce-810a-478c-89f3-7e1da6988673)
 
-
-
-
 ## 소개
 - 영양 관리 사이트
 - BMI 측정을 통해 결과에 따른 영양학적 식생활과 식품에 대해 추천함
